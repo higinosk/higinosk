@@ -3,17 +3,19 @@
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Sobre mim
 
-<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+<img align="right" width="410" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 ```kotlin
-object Kamilly {
- val name = "kamilly Higino"
- val acknowledgements = "Estudante de desenvolvimento web"
- 
- val primarySkillset = "SKILLS"
- val languages = listOf("JavaScrip", "HTML", "CSS") 
-
-}
+Const WhoIam = {
+ name: "kamilly Higino",
+ knowledge: "Full Stack Developer Student",
+ primarySkillset: "Critical Thinking", "Adaptability", "Teamwork",
+ languages: {
+  JavaScrip: "basic",
+  HTML: "basic",
+  CSS: "basic",
+  },
+};
 ```
 
 ## **Linguagens e Ferramentas:**  
