@@ -1,48 +1,32 @@
+# Hi, I'm Kamilly Higino! 👋
 
-![](https://komarev.com/ghpvc/?username=higinosk&color=006bed)
-
-## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Sobre mim
 
 <img align="right" width="410" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
-```kotlin
-const WhoIam = {
- name: "kamilly Higino",
- knowledge: "Full Stack Developer Student",
- primarySkillset: "Critical Thinking", "Adaptability", "Teamwork",
- languages: {
-  JavaScrip: "basic",
-  HTML: "basic",
-  CSS: "basic",
-  },
-};
-```
+Welcome to my GitHub profile! I'm a passionate Full Stack student who loves programming and web development. Here you'll find information about the languages and tools I frequently use, as well as some interesting statistics.
 
-## **Linguagens e Ferramentas:**  
+## Languages and Tools 💻🔧
 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+- JavaScript
+- HTML5
+- CSS3
+- Node.js
+- React.js
+- Express.js
+- MongoDB
+- Git
 
+## Statistics 📊
 
-## **GitHub Estatísticas**
+![Statistics](https://github-readme-stats.vercel.app/api?username=higinosk&show_icons=true&count_private=true)
 
-<a href="https://github.com/Gurupreet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=higinosk&theme=dark&hide_langs_below=1" />
-</a>
+## Connect with Me 🌐
 
-<a href="https://github.com/Gurupreet">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=higinosk&show_icons=true&theme=dark&line_height=27" alt="Kamilly Higino github stats"/>
-</a>
+Stay in touch and follow my programming journey on social media!
 
-[instagram]: https://www.instagram.com/higino.k/
-[linkedin]: https://www.linkedin.com/in/kamillyhigino/
-<br>
+- Instagram: [higino.k](https://www.instagram.com/higino.k/)
+- LinkedIn: [Kamilly Higino](https://www.linkedin.com/in/kamillyhigino/)
 
-#### Rede Sociais!
- 
-📷 [instagram][instagram] **|** 
-👔 [linkedin][linkedin]
+Feel free to explore my projects and collaborate with me in the exciting world of technology! If you have any questions or just want to chat, I'd be happy to connect with you!
+
+Thanks for visiting my profile! See you soon! 👋
