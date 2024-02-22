@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm a passionate Full Stack student who loves prog
 - Node.js
 - React.js
 - Express.js
-- MongoDB
+- PostgreSQL
 - Git
 
 ## Statistics 📊
