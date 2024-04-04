@@ -44,3 +44,7 @@ Stay in touch and follow my programming journey on social media!
 Feel free to explore my projects and collaborate with me in the exciting world of technology! If you have any questions or just want to chat, I'd be happy to connect with you!
 
 Thanks for visiting my profile! See you soon! 👋
+
+## DevCard
+
+<a href="https://app.daily.dev/higinosk"><img src="https://api.daily.dev/devcards/v2/u5MUx5jfMqOXrVLB4XKg2.png?r=q30&type=wide" width="652" alt="Kamilly Higino's Dev Card"/></a>
