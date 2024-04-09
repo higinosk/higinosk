@@ -31,7 +31,7 @@ Here you'll find information about the languages and tools I frequently use, as 
 
 ![Statistics](https://github-readme-stats.vercel.app/api/top-langs/?username=higinosk&langs_count=5&theme=transparent&layout=compact)
 
-## My Portfolio
+## My Portfolio 👩‍💻
 
 View my portfolio by clicking on the badge below:
 
