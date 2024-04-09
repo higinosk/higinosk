@@ -31,6 +31,11 @@ Here you'll find information about the languages and tools I frequently use, as 
 
 ![Statistics](https://github-readme-stats.vercel.app/api/top-langs/?username=higinosk&langs_count=5&theme=transparent&layout=compact)
 
+## My Portfolio
+
+View my portfolio by clicking on the badge below:
+
+<a href="https://higinosk.github.io/"><img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white" alt="GitHubPages" /></a>&nbsp;
 
 ## Connect with Me 🌐
 
